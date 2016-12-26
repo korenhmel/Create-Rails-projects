@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="66" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:ru; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="81" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:ru; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Mon Dec 19 13:41:16 2016
+<m key="abiword.date_last_changed">Mon Dec 19 18:05:12 2016
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.creator">koren</m>
@@ -19,78 +19,92 @@
 </metadata>
 <rdf>
 </rdf>
-<history version="1" edit-time="587" last-saved="1482147676" uid="af19d6ce-c5de-11e6-8840-8c2926a25538">
+<history version="2" edit-time="17611" last-saved="1482163512" uid="af19d6ce-c5de-11e6-8840-8c2926a25538">
 <version id="1" started="1482147676" uid="0d1c72c6-c5e0-11e6-8840-8c2926a25538" auto="0" top-xid="66"/>
+<version id="2" started="1482163512" uid="ec3ce3ae-c604-11e6-8840-8c2926a25538" auto="0" top-xid="76"/>
 </history>
 <styles>
-<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+<s type="P" name="Normal" followedby="Current Settings" props="font-weight:normal; font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-align:left; widows:2; font-style:normal; text-indent:0in; text-position:normal; font-variant:normal; bgcolor:transparent; line-height:1.0; text-decoration:none; margin-bottom:0pt; margin-right:0pt; font-size:12pt; font-stretch:normal"/>
 </styles>
-<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
-<section xid="62" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
-<p style="Normal" xid="63" props="text-align:left; dom-dir:ltr"><c>1.УСТАНОВКА НУЖНЫХ ГЕМОВ ДЛЯ ПРОЕКТА.</c></p>
-<p style="Normal" xid="1" props="text-align:left; dom-dir:ltr"><c> </c></p>
-<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr"><c> 1.)Перед созданием проекта определим дейсвующие роли, субьекты которые будут пользоваться программой, если это к примеру инет магазин, тогда это продавец - покупатель.</c></p>
-<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr"><c> 1.) Перед созданием проекта нужно составить на бумаге примерный план о том какие страницы должны быть в проекте и цепочку, или последовательность взаимодействия друг с другом этих страниц причем для каждого из субьектов. Это поможет нам примерно определить что должно быть сделано, </c></p>
-<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr"><c> 2.) Составить план с какими типами данных будем работать, чтобы потом определить модели</c></p>
-<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr"><c> 3.) Проект создается командой rails new depot2 -- где depot2, название проекта.</c></p>
-<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr"><c> 4.) Нам нужно создать таблицу базы данных и модель Rails, а также создать ряд представлений для формирования пользовательского интерфейса и контроллер, управляющий приложением.</c></p>
-<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr"><c> Есть два пути создания, одна при помощи временной платформы (scaffold)</c></p>
-<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr"><c> первый вариант rails generate scaffold Product \</c></p>
-<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr"><c>    title:string description:text image_url:string price:decimal</c></p>
-<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr"><c> </c></p>
-<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr"><c> </c></p>
-<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr"><c> Второй вариант создаем последовательно модель </c></p>
-<p style="Normal" xid="13" props="text-align:left; dom-dir:ltr"><c> 1) сначала создаем саму модель, и миграцию командой rails g model item</c></p>
-<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr"><c> обратите внимание на то что модель в единственном числе.</c></p>
-<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr"><c> Эта команда создает модель в которой прописываются ассоциации и поведение таблицы к примеру сколько символов она должна иметь, уникальность записи итд, и саму миграцию в которой прописывыются столбцы в таблице базы данных а также формат этих столбцов float, string итд.</c></p>
-<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr"><c> выглядит это примерно так</c></p>
-<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr"><c> </c></p>
-<p style="Normal" xid="18" props="text-align:left; dom-dir:ltr"><c>   class CreateItems &lt; ActiveRecord::Migration</c></p>
-<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr"><c>     def change</c></p>
-<p style="Normal" xid="20" props="text-align:left; dom-dir:ltr"><c>        create_table :items do |t|</c></p>
-<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr"><c>     </c></p>
-<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr"><c>     </c></p>
-<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr"><c>        t.timestamps</c></p>
-<p style="Normal" xid="24" props="text-align:left; dom-dir:ltr"><c>        end</c></p>
-<p style="Normal" xid="25" props="text-align:left; dom-dir:ltr"><c>     end</c></p>
-<p style="Normal" xid="26" props="text-align:left; dom-dir:ltr"><c>   end</c></p>
-<p style="Normal" xid="27" props="text-align:left; dom-dir:ltr"><c>   </c></p>
-<p style="Normal" xid="28" props="text-align:left; dom-dir:ltr"><c> 2)  Столбцы в нашей таблице создаются так:</c></p>
-<p style="Normal" xid="29" props="text-align:left; dom-dir:ltr"><c>  </c></p>
-<p style="Normal" xid="30" props="text-align:left; dom-dir:ltr"><c>  class CreateItems &lt; ActiveRecord::Migration</c></p>
-<p style="Normal" xid="31" props="text-align:left; dom-dir:ltr"><c>     def change</c></p>
-<p style="Normal" xid="32" props="text-align:left; dom-dir:ltr"><c>        create_table :items do |t|</c></p>
-<p style="Normal" xid="33" props="text-align:left; dom-dir:ltr"><c>        t.float :price -- float- это вид данных а price - имя столбца.</c></p>
-<p style="Normal" xid="34" props="text-align:left; dom-dir:ltr"><c>        t.string :name</c></p>
-<p style="Normal" xid="35" props="text-align:left; dom-dir:ltr"><c>        t.boolean :real</c></p>
-<p style="Normal" xid="36" props="text-align:left; dom-dir:ltr"><c>        t.timestamps</c></p>
-<p style="Normal" xid="37" props="text-align:left; dom-dir:ltr"><c>        end</c></p>
-<p style="Normal" xid="38" props="text-align:left; dom-dir:ltr"><c>     end</c></p>
-<p style="Normal" xid="39" props="text-align:left; dom-dir:ltr"><c>   end</c></p>
-<p style="Normal" xid="40" props="text-align:left; dom-dir:ltr"><c></c></p>
-<p style="Normal" xid="41" props="text-align:left; dom-dir:ltr"><c> 3)  команда rake db:migrate создает данную таблицу в базе данных.</c></p>
-<p style="Normal" xid="42" props="text-align:left; dom-dir:ltr"><c> 4)   конанда rake db:test:clone применит эту таблицу к тестовой базе данных.</c></p>
-<p style="Normal" xid="43" props="text-align:left; dom-dir:ltr"><c> </c></p>
-<p style="Normal" xid="44" props="text-align:left; dom-dir:ltr"><c> Если вы создали миграцию командой rake db:migrate то мы уже не можем в таблице которую мы создали применять новую миграцию, мы можем миграцию или откатить и тогда потеряются все значения командой rake db:rollback, или же применить новую миграцию командой rails g migration add_description_column_to_items </c></p>
-<p style="Normal" xid="45" props="text-align:left; dom-dir:ltr"><c> Появится новая миграция выглядить она будет так.</c></p>
-<p style="Normal" xid="46" props="text-align:left; dom-dir:ltr"><c>  </c></p>
-<p style="Normal" xid="47" props="text-align:left; dom-dir:ltr"><c>  class AddDescriptionColumnToItems &lt;ActiveRecord::Migration</c></p>
-<p style="Normal" xid="48" props="text-align:left; dom-dir:ltr"><c>    def change</c></p>
-<p style="Normal" xid="49" props="text-align:left; dom-dir:ltr"><c>    end</c></p>
-<p style="Normal" xid="50" props="text-align:left; dom-dir:ltr"><c>  end </c></p>
-<p style="Normal" xid="51" props="text-align:left; dom-dir:ltr"><c>  </c></p>
-<p style="Normal" xid="52" props="text-align:left; text-indent:0.00cm; dom-dir:ltr; margin-left:0.00cm"><c>  Добавить еще одну колонку в уже существующую таблице можно командой    add_column </c></p>
-<p style="Normal" xid="55" props="text-align:left; text-indent:0.00cm; dom-dir:ltr; margin-left:0.00cm"><c>выглядеть оно будет так:</c></p>
-<p style="Normal" xid="60" props="text-align:left; text-indent:0.00cm; dom-dir:ltr; margin-left:0.00cm"><c></c></p>
-<p style="Normal" xid="56" props="text-align:left; text-indent:0.00cm; dom-dir:ltr; margin-left:0.00cm"><c>  </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">class AddDescriptionColumnToItems &lt;ActiveRecord::Migration</c></p>
-<p style="Normal" xid="57" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">    def change</c></p>
-<p style="Normal" xid="61" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">      </c><c props="font-family:Times New Roman; text-decoration:underline; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; font-size:12pt">add_column  :items,  :description,  :string</c><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">  </c><c props="font-family:Times New Roman; text-decoration:underline; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; font-size:12pt"></c></p>
-<p style="Normal" xid="58" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">    end</c></p>
-<p style="Normal" xid="59" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">  end </c></p>
-<p style="Normal" xid="53" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; color:000000; lang:-none-; text-align:left; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c>    </c></p>
-<p style="Normal" xid="64" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; color:000000; lang:-none-; text-align:left; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c>где :item - название таблицы,  :description - название добавляемой колонки,  и  :string-</c></p>
-<p style="Normal" xid="65" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; color:000000; lang:-none-; text-align:left; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c></c></p>
-<p style="Normal" xid="54" props="text-align:left; dom-dir:ltr"><c>   тип данных в колонке.</c></p>
-<p style="Normal" xid="66" props="text-align:left; dom-dir:ltr"><c></c></p>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="62" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:2.00cm">
+<p style="Normal" xid="63" props="text-align:left; dom-dir:ltr"><c props="font-size:16pt">1.Создание rails  проекта</c><c props="font-size:16pt"></c></p>
+<p style="Normal" xid="1" props="text-align:left; dom-dir:ltr"> <c></c></p>
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr"> 1.Перед созданием проекта определим дейсвующие роли, субьекты которые будут пользоваться программой, если это к примеру инет магазин, тогда это продавец - покупатель.<c></c></p>
+<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr"> 2. Перед созданием проекта нужно составить на бумаге примерный план о том какие страницы должны быть в проекте и цепочку, или последовательность взаимодействия друг с другом этих страниц причем для каждого из субьектов. Это поможет нам примерно определить что должно быть сделано, <c></c></p>
+<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr"> 3. Составить план с какими типами данных будем работать, чтобы потом определить модели<c></c></p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr">4. Проект создается командой rails new depot2 -- где depot2, название проекта.<c></c></p>
+<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr">5. Нам нужно создать таблицу базы данных и модель Rails, а также создать ряд представлений для формирования пользовательского интерфейса и контроллер, управляющий приложением.<c></c></p>
+<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr"> Есть два пути создания, одна при помощи временной платформы (scaffold)<c></c></p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr"> <c props="font-weight:bold">первый вариант</c><c props="font-weight:bold"></c> rails generate scaffold Product \</p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr">    title:string description:text image_url:string price:decimal<c></c></p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr"> <c></c></p>
+<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr"> <c></c></p>
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr"> <c props="font-weight:bold">Второй вариант</c><c props="font-weight:bold"></c> создаем последовательно модель </p>
+<p style="Normal" xid="13" props="text-align:left; dom-dir:ltr"> 1) сначала создаем саму модель, и миграцию командой rails g model item<c></c></p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr"> обратите внимание на то что модель в единственном числе.<c></c></p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr"> Эта команда создает модель в которой прописываются ассоциации и поведение таблицы к примеру сколько символов она должна иметь, уникальность записи итд, и саму миграцию в которой прописывыются столбцы в таблице базы данных а также формат этих столбцов float, string итд.<c></c></p>
+<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr"> выглядит это примерно так<c></c></p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr"> <c></c></p>
+<p style="Normal" xid="18" props="text-align:left; dom-dir:ltr">   class CreateItems &lt; ActiveRecord::Migration<c></c></p>
+<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr">     def change<c></c></p>
+<p style="Normal" xid="20" props="text-align:left; dom-dir:ltr">        create_table :items do |t|<c></c></p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr">     <c></c></p>
+<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr">     <c></c></p>
+<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr">        t.timestamps<c></c></p>
+<p style="Normal" xid="24" props="text-align:left; dom-dir:ltr">        end<c></c></p>
+<p style="Normal" xid="25" props="text-align:left; dom-dir:ltr">     end<c></c></p>
+<p style="Normal" xid="26" props="text-align:left; dom-dir:ltr">   end<c></c></p>
+<p style="Normal" xid="27" props="text-align:left; dom-dir:ltr">   <c></c></p>
+<p style="Normal" xid="28" props="text-align:left; dom-dir:ltr"> 2)  Столбцы в нашей таблице создаются так:<c></c></p>
+<p style="Normal" xid="29" props="text-align:left; dom-dir:ltr">  <c></c></p>
+<p style="Normal" xid="30" props="text-align:left; dom-dir:ltr">  class CreateItems &lt; ActiveRecord::Migration<c></c></p>
+<p style="Normal" xid="31" props="text-align:left; dom-dir:ltr">     def change<c></c></p>
+<p style="Normal" xid="32" props="text-align:left; dom-dir:ltr">        create_table :items do |t|<c></c></p>
+<p style="Normal" xid="33" props="text-align:left; dom-dir:ltr">        t.float :price -- float- это вид данных а price - имя столбца.<c></c></p>
+<p style="Normal" xid="34" props="text-align:left; dom-dir:ltr">        t.string :name<c></c></p>
+<p style="Normal" xid="35" props="text-align:left; dom-dir:ltr">        t.boolean :real<c></c></p>
+<p style="Normal" xid="36" props="text-align:left; dom-dir:ltr">        t.timestamps<c></c></p>
+<p style="Normal" xid="37" props="text-align:left; dom-dir:ltr">        end<c></c></p>
+<p style="Normal" xid="73" props="text-align:left; dom-dir:ltr">       add_index :items :price</p>
+<p style="Normal" xid="74" props="text-align:left; dom-dir:ltr">       add_index :items :neme</p>
+<p style="Normal" xid="38" props="text-align:left; dom-dir:ltr">     end<c></c></p>
+<p style="Normal" xid="39" props="text-align:left; dom-dir:ltr">   end<c></c></p>
+<p style="Normal" xid="40" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="41" props="text-align:left; dom-dir:ltr"> 3)  команда rake db:migrate создает данную таблицу в базе данных.<c></c></p>
+<p style="Normal" xid="42" props="text-align:left; dom-dir:ltr"> 4)   конанда rake db:test:clone применит эту таблицу к тестовой базе данных.<c></c></p>
+<p style="Normal" xid="43" props="text-align:left; dom-dir:ltr"> 5)   <c props="font-weight:bold">добавление индексов</c><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="71" props="text-align:left; dom-dir:ltr">    проиндексированые колонки быстрее находятся и если часто по ним ведется запрос 	</p>
+<p style="Normal" xid="72" props="text-align:left; dom-dir:ltr">    то  лучше будет если их проиндексировать: <c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">add_index :items :price</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-"></c></p>
+<p style="Normal" xid="76" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">  где :items - название таблицы а :price - название колонки.</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:-none-"></c></p>
+<p style="Normal" xid="44" props="text-align:left; dom-dir:ltr"> Если вы создали миграцию командой rake db:migrate то мы уже не можем в таблице которую мы создали применять новую миграцию, мы можем миграцию или откатить и тогда потеряются все значения командой rake db:rollback, или же применить новую миграцию командой rails g migration add_description_column_to_items <c></c></p>
+<p style="Normal" xid="45" props="text-align:left; dom-dir:ltr"> Появится новая миграция выглядить она будет так.<c></c></p>
+<p style="Normal" xid="46" props="text-align:left; dom-dir:ltr">  <c></c></p>
+<p style="Normal" xid="47" props="text-align:left; dom-dir:ltr">  class AddDescriptionColumnToItems &lt;ActiveRecord::Migration<c></c></p>
+<p style="Normal" xid="48" props="text-align:left; dom-dir:ltr">    def change<c></c></p>
+<p style="Normal" xid="49" props="text-align:left; dom-dir:ltr">    end<c></c></p>
+<p style="Normal" xid="50" props="text-align:left; dom-dir:ltr">  end <c></c></p>
+<p style="Normal" xid="51" props="text-align:left; dom-dir:ltr">  <c></c></p>
+<p style="Normal" xid="52" props="text-align:left; text-indent:0.00cm; dom-dir:ltr; margin-left:0.00cm">  Добавить еще одну колонку в уже существующую таблице можно командой    add_column <c></c></p>
+<p style="Normal" xid="55" props="text-align:left; text-indent:0.00cm; dom-dir:ltr; margin-left:0.00cm">выглядеть оно будет так:<c></c></p>
+<p style="Normal" xid="60" props="text-align:left; text-indent:0.00cm; dom-dir:ltr; margin-left:0.00cm"><c></c><c></c></p>
+<p style="Normal" xid="56" props="text-align:left; text-indent:0.00cm; dom-dir:ltr; margin-left:0.00cm">  <c></c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">class AddDescriptionColumnToItems &lt;ActiveRecord::Migration</c></p>
+<p style="Normal" xid="57" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">    def change</c><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="61" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">      </c><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><c props="font-family:Times New Roman; text-decoration:underline; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; font-size:12pt">add_column  :items,  :description,  :string</c><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">  </c></p>
+<p style="Normal" xid="58" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">    end</c><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="59" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">  end </c><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="53" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; color:000000; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none">    <c></c></p>
+<p style="Normal" xid="64" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; color:000000; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none">где :item - название таблицы,  :description - название добавляемой колонки,  и  :string-<c></c></p>
+<p style="Normal" xid="65" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; color:000000; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none"><c></c><c></c></p>
+<p style="Normal" xid="54" props="text-align:left; dom-dir:ltr">   тип данных в колонке.<c></c></p>
+<p style="Normal" xid="66" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="67" props="text-align:left; dom-dir:ltr">чтобы применить миграцию для среды разработки и тестовой среды запустим две команды отдновременно:   <c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">rake db:migrate &amp;&amp;  rake db:test:clone</c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:bold; font-style:normal; lang:-none-"></c></p>
+<p style="Normal" xid="77" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">6) Создаем контроллер. Контроллеры это методы отвечающие за вызовы различных функций, акшинов акшин- это обработчик определенного </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">url.</c></p>
+<p style="Normal" xid="78" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">Создаем контроллер </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:bold; font-style:normal; lang:-none-"> rails g controller  home index </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">-   где home - название контроллера а index название метода</c></p>
+<p style="Normal" xid="80" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-"> создается сам контроллер - </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">home_controller</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">,  марштрут- </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">get ‘home/index’</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">,  представление </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">index.html.erb,</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-"> хелпер - </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">home_helper.rb,  </c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">тесты  </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">home_helper_test.rb</c></p>
+<p style="Normal" xid="81" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">также яваскрипт - </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">home.js.coffee</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:-none-">, а также css таблица </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">home.css.scss.</c></p>
+<p style="Normal" xid="79" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:bold; font-style:normal; lang:-none-"></c></p>
+<p style="Normal" xid="70" props="margin-top:0.0000in; margin-left:0.0000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">   56: 26</c><c props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="68" props="text-align:left; dom-dir:ltr"> </p>
 </section>
 </abiword>
