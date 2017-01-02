@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Mon Jan  2 14:21:48 2017
+<m key="abiword.date_last_changed">Wed Dec 28 16:41:56 2016
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.creator">koren</m>
@@ -19,12 +19,11 @@
 </metadata>
 <rdf>
 </rdf>
-<history version="6" edit-time="55896" last-saved="1483359708" uid="af19d6ce-c5de-11e6-8840-8c2926a25538">
+<history version="5" edit-time="55888" last-saved="1482936116" uid="af19d6ce-c5de-11e6-8840-8c2926a25538">
 <version id="1" started="1482147676" uid="0d1c72c6-c5e0-11e6-8840-8c2926a25538" auto="0" top-xid="66"/>
 <version id="2" started="1482163512" uid="ec3ce3ae-c604-11e6-8840-8c2926a25538" auto="0" top-xid="76"/>
 <version id="4" started="1482779868" uid="c86836c0-cbc9-11e6-9353-f9c2dae35cb6" auto="0" top-xid="96"/>
 <version id="5" started="1482936116" uid="c7eae326-cd0b-11e6-8127-f3c11d8506af" auto="0" top-xid="187"/>
-<version id="6" started="1483359708" uid="089f86d2-d0e6-11e6-894b-f690d9f522c7" auto="0" top-xid="191"/>
 </history>
 <styles>
 <s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; font-variant:normal; margin-left:0pt; widows:2; font-style:normal; text-indent:0in; text-position:normal; line-height:1.0; margin-bottom:0pt; bgcolor:transparent; margin-right:0pt; font-size:12pt; color:000000; text-decoration:none; font-weight:normal; text-align:left; font-stretch:normal"/>
