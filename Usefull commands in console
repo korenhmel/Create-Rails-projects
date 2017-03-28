@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="157" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:ru; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="163" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:ru; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Tue Mar 28 23:50:25 2017
+<m key="abiword.date_last_changed">Wed Mar 29 00:13:37 2017
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.creator">koren</m>
@@ -19,7 +19,7 @@
 </metadata>
 <rdf>
 </rdf>
-<history version="42" edit-time="38702" last-saved="1490734225" uid="f94a7b36-cb79-11e6-982c-c8f62941eb9e">
+<history version="42" edit-time="39092" last-saved="1490735617" uid="f94a7b36-cb79-11e6-982c-c8f62941eb9e">
 <version id="1" started="1482764345" uid="d8525ce4-cb7b-11e6-982c-c8f62941eb9e" auto="0" top-xid="5"/>
 <version id="4" started="1483462250" uid="39eb2570-d1d6-11e6-973f-e58c9fae7dff" auto="0" top-xid="16"/>
 <version id="8" started="1484058097" uid="2d0efd00-d743-11e6-9f18-a1d60392a206" auto="0" top-xid="24"/>
@@ -38,10 +38,10 @@
 <version id="37" started="1490725611" uid="1cbe842e-13e4-11e7-91d0-8a50e78a8592" auto="0" top-xid="148"/>
 <version id="39" started="1490727865" uid="736d567e-13e9-11e7-850e-dec2ab5a94c2" auto="0" top-xid="148"/>
 <version id="41" started="1490729221" uid="b5dbfac6-13ec-11e7-865e-826a9293fab0" auto="0" top-xid="157"/>
-<version id="42" started="1490734225" uid="2b4e436c-13f8-11e7-9197-ac0a12c2a5c7" auto="0" top-xid="157"/>
+<version id="42" started="1490735617" uid="68aabaee-13fb-11e7-9f37-ff87dd4c5849" auto="0" top-xid="163"/>
 </history>
 <styles>
-<s type="P" name="Normal" followedby="Current Settings" props="font-weight:normal; font-family:Times New Roman; margin-top:0pt; font-variant:normal; margin-left:0pt; text-align:left; widows:2; font-style:normal; text-indent:0in; text-position:normal; bgcolor:transparent; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; color:000000; font-stretch:normal"/>
+<s type="P" name="Normal" followedby="Current Settings" props="font-weight:normal; font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-align:left; widows:2; font-style:normal; text-indent:0in; text-position:normal; bgcolor:transparent; margin-right:0pt; font-size:12pt; text-decoration:none; font-variant:normal; line-height:1.0; margin-bottom:0pt; font-stretch:normal"/>
 <s type="P" name="Plain Text" basedon="Normal" followedby="Current Settings" props="font-family:Courier New"/>
 <s type="P" name="Heading 3" basedon="Normal" followedby="Normal" props="font-size:12pt; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:Arial; keep-with-next:1"/>
 </styles>
@@ -143,8 +143,12 @@
 <p style="Plain Text" xid="157" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none">-------------------------------------<br/>or push an existing repository from the command line</p>
 <p style="Plain Text" xid="154" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none">git remote add origin https://github.com/korenhmel/new_repo.git<br/>git push -u origin master</p>
 <p style="Normal" xid="155" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none"><c></c><c></c></p>
-<p style="Normal" xid="156" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none"><c></c><c></c></p>
-<p style="Normal" xid="145" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none"><c props="font-weight:normal"></c><c></c></p>
+<p style="Normal" xid="156" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none">Если по какой то причине вы указали неверный репозиторий к примеру и не можете зайти </p>
+<p style="Normal" xid="158" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">git remote add origin https://github.com/korenhmel/new_repo.git</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-"></c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:-none-"> его можно переделать командой </c>﻿<c props="font-family:Times New Roman; font-weight:bold">git remote set-url origin</c><c props="font-family:monospace; color:000000"> </c><c props="font-weight:bold; font-family:Times New Roman; color:000000">https://github.co</c><c props="font-family:Times New Roman; font-weight:bold">m/korenhmel/blog2.git</c></p>
+<p style="Normal" xid="159" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none">дальше как обычно <c></c></p>
+<p style="Normal" xid="161" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-">git push -u origin master</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-"></c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:-none-"> имя пароль.</c></p>
+<p style="Normal" xid="160" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none"><c></c><c></c></p>
+<p style="Normal" xid="145" props="font-family:Times New Roman; font-size:12pt; dom-dir:ltr; lang:-none-; font-weight:normal; text-position:normal; text-align:left; font-style:normal; text-decoration:none"><c props="font-weight:bold">git remote -v</c><c props="font-weight:normal"> показывает все репозитории</c></p>
 <p style="Normal" xid="135" props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:sans-serif; font-size:15.000000pt"></c><c></c></p>
 <p style="Normal" xid="131" props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:sans-serif; font-size:15.000000pt"></c><c></c></p>
 <p style="Normal" xid="116" props="font-family:Times New Roman; font-size:12pt; lang:-none-; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:-none-"></c></p>
